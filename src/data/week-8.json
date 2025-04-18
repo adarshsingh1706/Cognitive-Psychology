@@ -1,0 +1,65 @@
+{
+  "week": 8,
+  "questions": [
+    {
+      "id": 1,
+      "text": "Several mnemonic devices, including the method of loci, the pegword method, and the method of interacting images, have in common their reliance on:",
+      "options": ["verbal rehearsal", "creating a story", "visual imagery", "connecting new information to well-known information"],
+      "correctAnswer": "visual imagery"
+    },
+    {
+      "id": 2,
+      "text": "According to the dual-coding hypothesis, which of the following word pairs would be easiest to remember?",
+      "options": ["fire-inspiration", "ferret-catalog", "freedom-honesty", "cat-liberty"],
+      "correctAnswer": "ferret-catalog"
+    },
+    {
+      "id": 3,
+      "text": "In Paivio’s study of paired-associate learning, subjects learned four types of word pairs: I. concrete-concrete (for example, book-table) II. concrete-abstract (for example, book-freedom) III. abstract-concrete (for example, freedom-table) IV. abstract-abstract (for example, freedom-honesty) Which of the following accurately portrays participants’ recall of the four types of pairs, from highest recall to lowest?",
+      "options": ["I, III, II, IV", "I, II, III, IV", "II, III, I, IV", "IV, III, II, I"],
+      "correctAnswer": "I, II, III, IV"
+    },
+    {
+      "id": 4,
+      "text": "The relational-organizational hypothesis is supported by:",
+      "options": ["the effectiveness of the method of loci", "the fact that concrete words are recalled better than abstract words", "the fact that noninteractive images do not facilitate recall whereas interactive images do facilitate recall", "the effectiveness of the pegword method"],
+      "correctAnswer": "the fact that noninteractive images do not facilitate recall whereas interactive images do facilitate recall"
+    },
+    {
+      "id": 5,
+      "text": "Some theorists believe that there is a single code for all types of information; this code is known as a _______ representation.",
+      "options": ["visual", "pictorial", "verbal", "propositional"],
+      "correctAnswer": "propositional"
+    },
+    {
+      "id": 6,
+      "text": "Behaviorists objected to the study of visual imagery because:",
+      "options": ["it cannot be investigated with sufficient scientific control", "there are too many individual differences in people’s abilities to visualize", "behaviorists prefer to study animals and animals have no imagery abilities", "we can only study visual imagery and not auditory images, olfactory images, etc."],
+      "correctAnswer": "it cannot be investigated with sufficient scientific control"
+    },
+    {
+      "id": 7,
+      "text": "Kosslyn compared people’s verification times for statements like “Cats have claws” (high association, small visual part of a cat) to “Cats have heads” (low association, large visual part of a cat). He found that people were:",
+      "options": ["faster at verifying “claws” whether or not they used visual imagery", "faster at verifying “heads” whether or not they used visual imagery", "faster at verifying “heads” when they used imagery, “claws” when they did not", "faster at verifying “claws” when they used imagery, “heads” when they did not"],
+      "correctAnswer": "faster at verifying “heads” when they used imagery, “claws” when they did not"
+    },
+    {
+      "id": 8,
+      "text": "Finke’s principle of _____ states that mental imagery allows us to retrieve information that was not intentionally stored.",
+      "options": ["perceptual equivalence", "transformational equivalence", "implicit encoding", "structural encoding"],
+      "correctAnswer": "implicit encoding"
+    },
+    {
+      "id": 9,
+      "text": "Your mental map of your campus is probably:",
+      "options": ["larger than reality", "smaller than reality", "more regular, with more straight lines and right angles, than reality", "less regular, with fewer straight lines and right angles, than reality"],
+      "correctAnswer": "more regular, with more straight lines and right angles, than reality"
+    },
+    {
+      "id": 10,
+      "text": "Cooper’s studies of the mental rotation of complex polygons indicated that:",
+      "options": ["people rotated more complex polygons in the same amount of time as simpler polygons", "people took longer to rotate more complex polygons", "people actually took less time to rotate more complex polygons", "people were unable to mentally rotate a polygon with greater than 10 points with more than chance accuracy"],
+      "correctAnswer": "people rotated more complex polygons in the same amount of time as simpler polygons"
+    }
+  ]
+}

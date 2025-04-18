@@ -1,0 +1,65 @@
+{
+  "week": 9,
+  "questions": [
+    {
+      "id": 1,
+      "text": "The notion of a mental map involves:",
+      "options": ["a form of sensory representation", "a series of photographs of physical surroundings", "a cognitive representation of physical space", "a photographic memory of all visual experiences"],
+      "correctAnswer": "a cognitive representation of physical space"
+    },
+    {
+      "id": 2,
+      "text": "Which of the following is most likely to be used when solving a problem with a clearly defined goal and a well-known solution method?",
+      "options": ["Heuristic approach", "Means-end analysis", "Trial-and-error", "Insight"],
+      "correctAnswer": "Means-end analysis"
+    },
+    {
+      "id": 3,
+      "text": "Which type of problem-solving strategy involves trying different solutions in no particular order, without any clear strategy?",
+      "options": ["Trial-and-error", "Algorithm", "Heuristic", "Analogical transfer"],
+      "correctAnswer": "Trial-and-error"
+    },
+    {
+      "id": 4,
+      "text": "Which problem-solving approach is characterized by repeatedly breaking down a problem into smaller, more manageable parts?",
+      "options": ["Means-end analysis", "Working backwards", "Subgoal decomposition", "Analogical problem-solving"],
+      "correctAnswer": "Subgoal decomposition"
+    },
+    {
+      "id": 5,
+      "text": "In analogical problem-solving, people attempt to solve a problem based on:",
+      "options": ["a solution from a completely unrelated domain", "a mental image of the goal", "a solution that is similar to a problem they have already solved", "a physical representation of the problem"],
+      "correctAnswer": "a solution that is similar to a problem they have already solved"
+    },
+    {
+      "id": 6,
+      "text": "According to the representativeness heuristic, people are likely to judge an event as more probable if it:",
+      "options": ["is more familiar to them", "is more representative of their own experiences", "seems more typical of a category they know", "appears more recent in memory"],
+      "correctAnswer": "seems more typical of a category they know"
+    },
+    {
+      "id": 7,
+      "text": "The tendency to make decisions based on how easily an example comes to mind is known as the:",
+      "options": ["availability heuristic", "representativeness heuristic", "anchoring effect", "framing effect"],
+      "correctAnswer": "availability heuristic"
+    },
+    {
+      "id": 8,
+      "text": "A person who believes that a series of coin tosses should balance out, even though they are independent events, is demonstrating:",
+      "options": ["the gambler’s fallacy", "the representativeness heuristic", "the anchoring effect", "the availability heuristic"],
+      "correctAnswer": "the gambler’s fallacy"
+    },
+    {
+      "id": 9,
+      "text": "Which cognitive bias involves placing too much importance on the first piece of information encountered when making decisions?",
+      "options": ["Framing effect", "Anchoring effect", "Overconfidence bias", "Hindsight bias"],
+      "correctAnswer": "Anchoring effect"
+    },
+    {
+      "id": 10,
+      "text": "The confirmation bias leads individuals to:",
+      "options": ["actively search for information that contradicts their beliefs", "interpret ambiguous information in a neutral way", "seek out information that confirms their preexisting beliefs", "rely more on evidence that is equally weighted from all sources"],
+      "correctAnswer": "seek out information that confirms their preexisting beliefs"
+    }
+  ]
+}

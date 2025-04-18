@@ -1,0 +1,65 @@
+{
+  "week": 2,
+  "questions": [
+    {
+      "id": 1,
+      "text": "Which of the following processes the sensations coming into each sense organ, allowing us to understand and interpret the sensations we receive?",
+      "options": ["environment", "sensory system", "stimulus", "brain"],
+      "correctAnswer": "sensory system"
+    },
+    {
+      "id": 2,
+      "text": "Which of these psychological approaches focuses on how humans use principles of organization to understand our surroundings?",
+      "options": ["perception-action", "gestalt", "top-down", "computational"],
+      "correctAnswer": "gestalt"
+    },
+    {
+      "id": 3,
+      "text": "The two best studied forms of perception are:",
+      "options": ["visual and auditory", "visual and olfactory", "visual and haptic", "auditory and olfactory"],
+      "correctAnswer": "visual and auditory"
+    },
+    {
+      "id": 4,
+      "text": "Reversible figures illustrate the principle of:",
+      "options": ["bottom-up processing", "figure-ground organization", "size constancy", "retinal imagery"],
+      "correctAnswer": "figure-ground organization"
+    },
+    {
+      "id": 5,
+      "text": "A stencil provides a good analogy for the theory of:",
+      "options": ["top-down processing", "template matching", "good continuation", "featural analysis"],
+      "correctAnswer": "template matching"
+    },
+    {
+      "id": 6,
+      "text": "Gibson's theory of direct perception is in direct opposition to the ______ approach to perception.",
+      "options": ["connectionist", "constructivist", "bottom-up", "gestalt"],
+      "correctAnswer": "constructivist"
+    },
+    {
+      "id": 7,
+      "text": "Prototype matching theory argues that percepts are compared to ______ in memory.",
+      "options": ["idealized representations", "abstract dot patterns", "gestalt principles", "lists of features"],
+      "correctAnswer": "idealized representations"
+    },
+    {
+      "id": 8,
+      "text": "___________ are to visual perception what phonemes are to language, according to Biederman.",
+      "options": ["templates", "distal stimuli", "geons", "receptors"],
+      "correctAnswer": "geons"
+    },
+    {
+      "id": 9,
+      "text": "Which of these help us estimate objects' size and distance to aid in our perception?",
+      "options": ["stimuli", "sensations", "cues", "neurons"],
+      "correctAnswer": "cues"
+    },
+    {
+      "id": 10,
+      "text": "You are eating a meal at an open-air restaurant a few hundred yards from the ocean. You hear a constant whooshing sound. According to the likelihood principle, what would you assume caused the noise?",
+      "options": ["an earthquake", "a series of airplanes landing", "traffic a few miles away", "waves crashing on the beach"],
+      "correctAnswer": "waves crashing on the beach"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "week": 12,
+  "questions": [
+    {
+      "id": 1,
+      "text": "_____ is a normative model for integrating different dimensions and goals of a complex decision.",
+      "options": [
+        "Expected utility",
+        "MAUT",
+        "Framing",
+        "Availability"
+      ],
+      "correctAnswer": "MAUT"
+    },
+    {
+      "id": 2,
+      "text": "Expert decision makers may rely on intuition and mental simulation, according to the _________ model.",
+      "options": [
+        "recognition-primed decision-making",
+        "MAUT",
+        "EU",
+        "elimination-by-aspects"
+      ],
+      "correctAnswer": "recognition-primed decision-making"
+    },
+    {
+      "id": 3,
+      "text": "Expected utility is a descriptive model of human decision making.",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "id": 4,
+      "text": "When making a complex decision such as choosing 1 of 10 different apartments to rent,",
+      "options": [
+        "participants spontaneously use multiattribute utility theory",
+        "participants use the same decision strategies regardless of the number of alternatives they are choosing between",
+        "participants systematically search for all available information",
+        "participants often eliminate some alternatives on the basis of only one or a few undesirable characteristics"
+      ],
+      "correctAnswer": "participants often eliminate some alternatives on the basis of only one or a few undesirable characteristics"
+    },
+    {
+      "id": 5,
+      "text": "Expected utility theory is usually regarded as a ________ model of decision making.",
+      "options": [
+        "descriptive",
+        "prescriptive",
+        "normative",
+        "both descriptive and prescriptive"
+      ],
+      "correctAnswer": "normative"
+    },
+    {
+      "id": 6,
+      "text": "You are offered a chance to buy a lottery ticket. The probability of winning is 1 in 100. If you win, the prize is $100,000. According to expected value, a “fair” price for this lottery ticket would be:",
+      "options": ["$5", "$10", "$100", "$1000"],
+      "correctAnswer": "$1000"
+    },
+    {
+      "id": 7,
+      "text": "Normative models of decision making describe:",
+      "options": [
+        "ideal performance under ideal circumstances",
+        "what people actually do when they make decisions",
+        "cognitive illusions",
+        "hindsight biases"
+      ],
+      "correctAnswer": "ideal performance under ideal circumstances"
+    },
+    {
+      "id": 8,
+      "text": "You are a participant in an experiment in which you answer a long list of general knowledge questions. After answering each question, you are asked to rate your probability of being correct. If you are like the typical participant in such experiments, you will probably be correct on what percentage of questions for which you estimated '60% probability correct'?",
+      "options": ["55%", "60%", "70%", "100%"],
+      "correctAnswer": "55%"
+    },
+    {
+      "id": 9,
+      "text": "The normative model for integrating different dimensions of a complex decision is called MAUT.",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "id": 10,
+      "text": "You have just spent 10 minutes trying to figure out the answer to a single problem on your math quiz. In spite of your lack of success, you continue to struggle, neglecting to continue on to other problems because you’ve already invested so much time and effort in this problem. You have fallen victim to:",
+      "options": [
+        "the sunk cost effect",
+        "a framing effect",
+        "the anchor effect",
+        "availability bias"
+      ],
+      "correctAnswer": "the sunk cost effect"
+    }
+  ]
+}

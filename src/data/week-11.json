@@ -1,0 +1,105 @@
+{
+  "week": 11,
+  "questions": [
+    {
+      "id": 1,
+      "text": "Deductive reasoning involves which of the following?",
+      "options": [
+        "going from general to specific statements",
+        "conclusions that add new information to what is given",
+        "going from specific to general statements",
+        "going from specific to specific statements"
+      ],
+      "correctAnswer": "going from general to specific statements"
+    },
+    {
+      "id": 2,
+      "text": "When it is improbable (but not impossible) for an argument’s premises to be true and its conclusions false, the argument has:",
+      "options": [
+        "deductive validity",
+        "deductive strength",
+        "inductive validity",
+        "inductive strength"
+      ],
+      "correctAnswer": "inductive strength"
+    },
+    {
+      "id": 3,
+      "text": "If a person has five letters in his or her name, then s/he is a Glirple. I can now validly assume that:",
+      "options": [
+        "Shawn is a Glirple",
+        "anyone who is a Glirple must have five letters in his/her name",
+        "anyone who is not a Glirple cannot be named Susan",
+        "Shawn is a Glirple, and anyone who is not a Glirple cannot be named Susan"
+      ],
+      "correctAnswer": "Shawn is a Glirple, and anyone who is not a Glirple cannot be named Susan"
+    },
+    {
+      "id": 4,
+      "text": "In completing Wason’s four-card task, participants usually:",
+      "options": [
+        "turn over the two cards that are necessary and sufficient to test the rule",
+        "turn over all four cards, when only two would have been sufficient",
+        "turn over all four cards, when only one would have been sufficient",
+        "show understanding of modus ponens but neglect modus tollens"
+      ],
+      "correctAnswer": "show understanding of modus ponens but neglect modus tollens"
+    },
+    {
+      "id": 5,
+      "text": "People have more difficulty working with:",
+      "options": [
+        "quantifiers such as 'all' or 'no.'",
+        "quantifiers such as 'some.'",
+        "premises that have negatives in them, and quantifiers such as 'all' or 'no.'",
+        "premises that have negatives in them, and quantifiers such as 'some.'"
+      ],
+      "correctAnswer": "premises that have negatives in them, and quantifiers such as 'some.'"
+    },
+    {
+      "id": 6,
+      "text": "The tendency to seek out information that supports our current beliefs is called:",
+      "options": [
+        "a believability effect",
+        "a content effect",
+        "a confirmation bias",
+        "syllogistic reasoning"
+      ],
+      "correctAnswer": "a confirmation bias"
+    },
+    {
+      "id": 7,
+      "text": "The gambler’s fallacy is thought of as a special instance of:",
+      "options": [
+        "framing",
+        "availability",
+        "belief in the law of small numbers",
+        "hindsight"
+      ],
+      "correctAnswer": "belief in the law of small numbers"
+    },
+    {
+      "id": 8,
+      "text": "Let p = 'Mary got an A on her exam' and q = 'John got a C on his exam.' In which of the following situations is the statement 'p & q' true?",
+      "options": [
+        "Mary and John both got A’s",
+        "Mary and John both got C’s",
+        "Mary got an A and John got a C",
+        "Mary got a C and John got an A"
+      ],
+      "correctAnswer": "Mary got an A and John got a C"
+    },
+    {
+      "id": 9,
+      "text": "'All dogs chase cats. Bingo is a dog. Therefore, Bingo chases cats.' This is an example of deductive reasoning.",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "id": 10,
+      "text": "The representativeness heuristic causes us to erroneously judge words with 'L' as their first letter to be more common than words with 'L' as their third letter.",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    }
+  ]
+}

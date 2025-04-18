@@ -1,0 +1,70 @@
+{
+  "week": 10,
+  "questions": [
+    {
+      "id": 1,
+      "text": "A(n) _______ problem has a clear goal, a small set of starting information, and rules about how to attain the goal.",
+      "options": ["classic", "laboratory", "well-defined", "introspective"],
+      "correctAnswer": "well-defined"
+    },
+    {
+      "id": 2,
+      "text": "The problem-solving technique of ______ involves comparing the goal with the starting point, thinking of possible ways to overcome the distance between them, and choosing the best one.",
+      "options": ["generate-and-test", "means-end analysis", "reasoning by analogy", "mental set"],
+      "correctAnswer": "means-end analysis"
+    },
+    {
+      "id": 3,
+      "text": "The General Problem Solver (GPS) is a computer program that solves problems in crypt arithmetic and logic using:",
+      "options": ["means-end analysis", "generate-and-test", "reasoning by analogy", "introspection"],
+      "correctAnswer": "means-end analysis"
+    },
+    {
+      "id": 4,
+      "text": "______ is a very important technique for solving the Towers of Hanoi problem.",
+      "options": ["Means-end analysis", "Generate-and-test", "Working backward", "Reasoning by analogy"],
+      "correctAnswer": "Working backward"
+    },
+    {
+      "id": 5,
+      "text": "A tendency to adopt a certain framework, strategy, or procedure, which can become an obstacle to successful problem solving, is called:",
+      "options": ["mental set", "functional fixedness", "well-defined thinking", "ill-defined thinking"],
+      "correctAnswer": "mental set"
+    },
+    {
+      "id": 6,
+      "text": "The string problem often generates ______ when participants do not think to use the screwdriver as a pendulum.",
+      "options": ["functional fixedness", "mental set", "incomplete representations", "reasoning by analogy"],
+      "correctAnswer": "functional fixedness"
+    },
+    {
+      "id": 7,
+      "text": "________ involves appropriate novelty in generating solutions.",
+      "options": ["Intelligence", "Genius", "Creativity", "Mental disorder"],
+      "correctAnswer": "Creativity"
+    },
+    {
+      "id": 8,
+      "text": "Research on the incubation effect has shown that:",
+      "options": [
+        "most empirical studies support the positive effects of incubation.",
+        "incubation effects are only found with very long incubation intervals.",
+        "incubation actually has a negative effect on performance.",
+        "participants who take physical and mental breaks rarely show increased ability to solve problems."
+      ],
+      "correctAnswer": "participants who take physical and mental breaks rarely show increased ability to solve problems."
+    },
+    {
+      "id": 9,
+      "text": "The prefrontal cortex is involved in the ability to plan and solve problems.",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "id": 10,
+      "text": "The detailed, concurrent, and nonjudgmental observation of the contents of your consciousness is called:",
+      "options": ["thinking", "daydreaming", "problem solving", "introspection"],
+      "correctAnswer": "introspection"
+    }
+  ]
+}

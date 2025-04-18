@@ -1,0 +1,75 @@
+{
+  "week": 7,
+  "questions": [
+    {
+      "id": 1,
+      "text": "A ________ is a mental representation of some object, event, or pattern.",
+      "options": ["category", "concept", "script", "memory"],
+      "correctAnswer": "concept"
+    },
+    {
+      "id": 2,
+      "text": "“Characteristic features” and “family resemblance” are important aspects of the _________ view of concepts.",
+      "options": ["classical", "prototype", "exemplar", "schema"],
+      "correctAnswer": "prototype"
+    },
+    {
+      "id": 3,
+      "text": "If “soda” is a basic-level category, then ______ would be a subordinate level.",
+      "options": ["soft drink", "beverage", "drink", "Coca-Cola"],
+      "correctAnswer": "Coca-Cola"
+    },
+    {
+      "id": 4,
+      "text": "According to the ______ view of concepts, people categorize new instances by comparing them to representations of previously stored instances.",
+      "options": ["classical", "prototype", "exemplar", "schema"],
+      "correctAnswer": "exemplar"
+    },
+    {
+      "id": 5,
+      "text": "The _____ view of concepts argues that concepts include representations of at least some individual instances and not only abstract summaries.",
+      "options": ["classical", "prototype", "schemata", "both exemplar and schemata"],
+      "correctAnswer": "both exemplar and schemata"
+    },
+    {
+      "id": 6,
+      "text": "Which of the following is true regarding schemata?",
+      "options": [
+        "A schema refers to something smaller and more specific than a concept.",
+        "Schemata are passive rather than active.",
+        "A schema contains only fixed parts, never variables.",
+        "Schemata can indicate relationships among various pieces of information."
+      ],
+      "correctAnswer": "Schemata can indicate relationships among various pieces of information."
+    },
+    {
+      "id": 7,
+      "text": "The ______ view of concepts argues that a person uses his/her theories about the way the world works to justify the classification of instances in the same category.",
+      "options": ["prototype", "exemplar", "schema", "knowledge-based"],
+      "correctAnswer": "knowledge-based"
+    },
+    {
+      "id": 8,
+      "text": "The schema view of concept formation assumes that:",
+      "options": [
+        "there are clear boundaries among individual schemata.",
+        "there is cognitive economy among concepts.",
+        "information is abstracted across instances.",
+        "no information is stored about actual instances."
+      ],
+      "correctAnswer": "information is abstracted across instances."
+    },
+    {
+      "id": 9,
+      "text": "Which of the following is a good example of a basic level of categorization?",
+      "options": ["musical instrument", "piano", "electronic keyboard", "grand piano"],
+      "correctAnswer": "piano"
+    },
+    {
+      "id": 10,
+      "text": "If “sandwich” is a basic-level category, then ______ would be a superordinate level.",
+      "options": ["soup", "sub", "panini", "food"],
+      "correctAnswer": "food"
+    }
+  ]
+}

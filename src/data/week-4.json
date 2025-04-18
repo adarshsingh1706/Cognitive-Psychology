@@ -1,0 +1,65 @@
+{
+  "week": 4,
+  "questions": [
+    {
+      "id": 1,
+      "text": "Remembering your phone number in sequences such as xxx-xxx-xxxx and your Social Security number in sequences such as xxx-xx-xxxx are examples of ______.",
+      "options": ["short-term memory", "encoding", "sensory memory", "chunking"],
+      "correctAnswer": "chunking"
+    },
+    {
+      "id": 2,
+      "text": "The briefest form of memory is ______ memory.",
+      "options": ["long-term", "working", "short-term", "sensory"],
+      "correctAnswer": "sensory"
+    },
+    {
+      "id": 3,
+      "text": "The suffix effect relates to which type of memory?",
+      "options": ["iconic", "echoic", "short term", "long term"],
+      "correctAnswer": "echoic"
+    },
+    {
+      "id": 4,
+      "text": "The fact that the size of the memory set does affect search time in short-term memory suggests that:",
+      "options": ["search is both self-terminating and serial", "search is a serial process", "search is a parallel process", "search is exhaustive"],
+      "correctAnswer": "search is a serial process"
+    },
+    {
+      "id": 5,
+      "text": "Some experts describe memory as a ______, while others believe it is a ______.",
+      "options": ["checklist; blueprint", "secret; journey", "structure; process", "ball of string; pool of water"],
+      "correctAnswer": "structure; process"
+    },
+    {
+      "id": 6,
+      "text": "Which of these is a component of the memory formation process?",
+      "options": ["retrieval", "interference", "modality", "inspiration"],
+      "correctAnswer": "retrieval"
+    },
+    {
+      "id": 7,
+      "text": "Unattended information is stored briefly in:",
+      "options": ["sensory memory", "short-term memory", "long-term memory", "secondary memory"],
+      "correctAnswer": "sensory memory"
+    },
+    {
+      "id": 8,
+      "text": "In the absence of rehearsal, short-term memory tends to:",
+      "options": ["last about 8 seconds", "last about 20 seconds", "decay slowly over 24 hours", "last for an unlimited amount of time"],
+      "correctAnswer": "last about 20 seconds"
+    },
+    {
+      "id": 9,
+      "text": "The concept of fluid intelligence is highly related to:",
+      "options": ["working memory capacity", "echoic memory capacity", "iconic memory capacity", "interference"],
+      "correctAnswer": "working memory capacity"
+    },
+    {
+      "id": 10,
+      "text": "One basic physiological mechanism for learning is the ____ rule, which states that if a synapse between two neurons is repeatedly activated at about the same time the postsynaptic neuron fires, the chemistry of the synapse changes.",
+      "options": ["Baddeley", "Hebb", "Tulving", "Carlson"],
+      "correctAnswer": "Hebb"
+    }
+  ]
+}

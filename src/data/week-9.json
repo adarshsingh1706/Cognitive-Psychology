@@ -1,65 +1,113 @@
 {
-  "week": 9,
+  "week": "week-9",
   "questions": [
     {
       "id": 1,
-      "text": "The notion of a mental map involves:",
-      "options": ["a form of sensory representation", "a series of photographs of physical surroundings", "a cognitive representation of physical space", "a photographic memory of all visual experiences"],
-      "correctAnswer": "a cognitive representation of physical space"
+      "text": "Which of the following is/are generally agreed upon as necessary criteria/criterion for claiming that a communication system is a language?",
+      "options": [
+        "regularity",
+        "productivity",
+        "referentiality",
+        "both regularity and productivity"
+      ],
+      "correctAnswer": "both regularity and productivity"
     },
     {
       "id": 2,
-      "text": "Which of the following is most likely to be used when solving a problem with a clearly defined goal and a well-known solution method?",
-      "options": ["Heuristic approach", "Means-end analysis", "Trial-and-error", "Insight"],
-      "correctAnswer": "Means-end analysis"
+      "text": "Bird songs and bee dances are not considered to be languages because:",
+      "options": [
+        "they do not use words.",
+        "they do not have a formal grammar.",
+        "they cannot express infinite combinations of ideas.",
+        "they do not have a permanent (written) form."
+      ],
+      "correctAnswer": "they cannot express infinite combinations of ideas."
     },
     {
       "id": 3,
-      "text": "Which type of problem-solving strategy involves trying different solutions in no particular order, without any clear strategy?",
-      "options": ["Trial-and-error", "Algorithm", "Heuristic", "Analogical transfer"],
-      "correctAnswer": "Trial-and-error"
+      "text": "The smallest unit of language that carries a consistent meaning is called a:",
+      "options": [
+        "feature",
+        "phoneme",
+        "phonetic",
+        "morpheme"
+      ],
+      "correctAnswer": "morpheme."
     },
     {
       "id": 4,
-      "text": "Which problem-solving approach is characterized by repeatedly breaking down a problem into smaller, more manageable parts?",
-      "options": ["Means-end analysis", "Working backwards", "Subgoal decomposition", "Analogical problem-solving"],
-      "correctAnswer": "Subgoal decomposition"
+      "text": "English speakers hear a distinction between “l” and “r” sounds; speakers of some Chinese dialects do not hear this distinction. This example illustrates a difference in the ______ aspects of the two languages.",
+      "options": [
+        "phonetic",
+        "phonological",
+        "semantic",
+        "syntactic"
+      ],
+      "correctAnswer": "phonetic"
     },
     {
       "id": 5,
-      "text": "In analogical problem-solving, people attempt to solve a problem based on:",
-      "options": ["a solution from a completely unrelated domain", "a mental image of the goal", "a solution that is similar to a problem they have already solved", "a physical representation of the problem"],
-      "correctAnswer": "a solution that is similar to a problem they have already solved"
+      "text": "Studies of sentence comprehension have shown all of the following EXCEPT:",
+      "options": [
+        "Exact wording of a clause is preserved in memory while that clause is actively being processed.",
+        "After a sentence has been processed, exact wording is discarded and only the general meaning is preserved in memory.",
+        "We typically do not consciously notice ambiguities in sentences.",
+        "We do not process exact wording in memory; we only process meaning."
+      ],
+      "correctAnswer": "We do not process exact wording in memory; we only process meaning."
     },
     {
       "id": 6,
-      "text": "According to the representativeness heuristic, people are likely to judge an event as more probable if it:",
-      "options": ["is more familiar to them", "is more representative of their own experiences", "seems more typical of a category they know", "appears more recent in memory"],
-      "correctAnswer": "seems more typical of a category they know"
+      "text": "“What’s for dinner?” “Food.” The second speaker is breaking Grice’s maxim of",
+      "options": [
+        "quantity",
+        "quality",
+        "relation",
+        "manner"
+      ],
+      "correctAnswer": "quantity."
     },
     {
       "id": 7,
-      "text": "The tendency to make decisions based on how easily an example comes to mind is known as the:",
-      "options": ["availability heuristic", "representativeness heuristic", "anchoring effect", "framing effect"],
-      "correctAnswer": "availability heuristic"
+      "text": "Fodor’s modularity hypothesis proposes that:",
+      "options": [
+        "language processing actually encompasses several subskills (modules).",
+        "in understanding language, we separate sentences and phrases into individual units known as modules.",
+        "thought processes are dependent upon the language we use to think.",
+        "certain language processes operate independently of other cognitive processes such as memory and attention."
+      ],
+      "correctAnswer": "certain language processes operate independently of other cognitive processes such as memory and attention."
     },
     {
       "id": 8,
-      "text": "A person who believes that a series of coin tosses should balance out, even though they are independent events, is demonstrating:",
-      "options": ["the gambler’s fallacy", "the representativeness heuristic", "the anchoring effect", "the availability heuristic"],
-      "correctAnswer": "the gambler’s fallacy"
+      "text": "Whorf’s linguistic relativity hypothesis:",
+      "options": [
+        "asserts that thought is dependent upon language.",
+        "is supported by studies of color perception.",
+        "asserts that thought is dependent upon language, and is supported by studies of color perception.",
+        "asserts that thought is dependent upon language, and is not supported by studies of color perception."
+      ],
+      "correctAnswer": "asserts that thought is dependent upon language, and is not supported by studies of color perception."
     },
     {
       "id": 9,
-      "text": "Which cognitive bias involves placing too much importance on the first piece of information encountered when making decisions?",
-      "options": ["Framing effect", "Anchoring effect", "Overconfidence bias", "Hindsight bias"],
-      "correctAnswer": "Anchoring effect"
+      "text": "Damage to Broca’s area often leads to:",
+      "options": [
+        "expressive aphasia.",
+        "receptive aphasia.",
+        "inability to comprehend written language.",
+        "both expressive aphasia and inability to comprehend written language."
+      ],
+      "correctAnswer": "expressive aphasia."
     },
     {
       "id": 10,
-      "text": "The confirmation bias leads individuals to:",
-      "options": ["actively search for information that contradicts their beliefs", "interpret ambiguous information in a neutral way", "seek out information that confirms their preexisting beliefs", "rely more on evidence that is equally weighted from all sources"],
-      "correctAnswer": "seek out information that confirms their preexisting beliefs"
+      "text": "The word “bat” is considered to be lexically ambiguous because it has two possible meanings.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True"
     }
   ]
 }

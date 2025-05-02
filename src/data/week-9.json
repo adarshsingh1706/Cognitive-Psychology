@@ -32,7 +32,7 @@
         "phonetic",
         "morpheme"
       ],
-      "correctAnswer": "morpheme."
+      "correctAnswer": "morpheme"
     },
     {
       "id": 4,
@@ -65,7 +65,7 @@
         "relation",
         "manner"
       ],
-      "correctAnswer": "quantity."
+      "correctAnswer": "quantity"
     },
     {
       "id": 7,

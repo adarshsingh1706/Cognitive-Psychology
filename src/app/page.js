@@ -126,6 +126,7 @@
 
 import { useRouter } from "next/navigation";
 import { Select, SelectTrigger, SelectValue, SelectContent, SelectItem } from "@/components/ui/select";
+import DualCountdown from '@/components/DualCountdown';
 
 export default function Home() {
   const router = useRouter();
@@ -135,6 +136,19 @@ export default function Home() {
   const combinedOption = "combined"; // Combined set of questions
 
   return (
+
+    <div className="min-h-screen bg-gradient-to-br from-gray-900 to-gray-800 p-6">
+    <div className="max-w-7xl mx-auto">
+      <h1 className="text-4xl font-bold text-center text-white mb-2">
+        Cognitive Psychology Exams
+      </h1>
+      <p className="text-center text-gray-400 mb-12">
+        Countdown to May 4, 2025
+      </p>
+      
+      <DualCountdown />
+
+<br/>
     <div className="min-h-screen flex flex-col items-center bg-gradient-to-br from-gray-900 to-gray-800 p-4">
       {/* Floating Out-of-the-Box Header */}
       <div className="w-full max-w-2xl mb-8 mt-12">
@@ -195,6 +209,8 @@ export default function Home() {
           ))}
         </div>
       </div>
+    </div>
+    </div>
     </div>
   );
 }

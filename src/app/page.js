@@ -140,7 +140,7 @@ export default function Home() {
     <div className="min-h-screen bg-gradient-to-br from-gray-900 to-gray-800 p-6">
     <div className="max-w-7xl mx-auto">
       <h1 className="text-4xl font-bold text-center text-white mb-2">
-        Cognitive Psychology Exams
+        NPTEL COGNITIVE PSYCHOLOGY
       </h1>
       <p className="text-center text-gray-400 mb-12">
         Countdown to May 4, 2025
